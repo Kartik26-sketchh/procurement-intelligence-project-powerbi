@@ -8,6 +8,8 @@ The business needs better visibility into procurement spend, vendor dependency, 
 
 The objective of this project is to transform transactional data into structured analysis and decision-support insights for procurement and inventory-related decisions.
 
+Case Context: Cask & Crown is a hypothetical multi-store beverage retailer created for this portfolio project.
+
 ## Business Objectives
 
 - Identify high-spend and strategically important vendors
