@@ -44,12 +44,17 @@ Provides a high-level view of procurement spend, key vendors, store sales contri
 
 ### 2. Vendor Performance & Dependency
 Analyzes vendor dependency, product breadth, lead time, and overall vendor value.
+![Vendor Performance & Dependency](Screenshots/Vendor-Performance.png)
 
 ### 3. Procurement Spend & Cost Analysis
 Examines freight cost, purchase price variation, purchase-versus-sales differences, and tax-to-sales exposure.
+![Procurement Spend & Cost Analysis](Screenshots/Procurement-spend.png)
+
 
 ### 4. Product & Inventory Intelligence
 Highlights high-ending-inventory products, high-sales/low-inventory products, product-level gross profit concentration, and sales-inventory alignment.
+![Product & Inventory Intelligence](Screenshots/Product%20%26%20Inventory.png)
+
 
 ## Key Insights
 
