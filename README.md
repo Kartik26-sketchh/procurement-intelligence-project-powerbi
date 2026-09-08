@@ -88,12 +88,11 @@ Highlights high-ending-inventory products, high-sales/low-inventory products, pr
 
 ## Project Files
 
-- `Procurement_intelligence.pbix` — Power BI dashboard
-- `Procurement_Intelligence_businessBRD.docx` — Business Requirements Document
-- `Procurement_IntelligencefunctionFRD.docx` — Functional Requirements Document
-- `SQL/` — SQL analytical queries
-- `Screenshots/` — dashboard views and supporting visuals
-- `Documentation/` — additional project documentation
+- `- [Procurement_intelligence.pbix](Procurement_intelligence.pbix) — Power BI dashboard
+- [Procurement_Intelligence_businessBRD.docx](Procurement_Intelligence_businessBRD.docx) — Business Requirements Document
+- [Procurement_IntelligencefunctionFRD.docx](Procurement_IntelligencefunctionFRD.docx) — Functional Requirements Document
+- [SQL/](SQL/) — SQL analytical queries
+- [Screenshots/](Screenshots/) — dashboard views and supporting visuals
 
 ## Skills Demonstrated
 
