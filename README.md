@@ -40,7 +40,7 @@ The Power BI solution contains four analytical pages:
 
 ### 1. Executive Procurement Overview
 Provides a high-level view of procurement spend, key vendors, store sales contribution, and procurement-sales alignment.
-Executive-overview.png
+![Executive Procurement Overview](Screenshots/Executive-overview.png)
 
 ### 2. Vendor Performance & Dependency
 Analyzes vendor dependency, product breadth, lead time, and overall vendor value.
